@@ -63,13 +63,7 @@ The web app must have two pages/routes:
 - *Cloning the repository:*
 
 ```
-$ git clone LinkDoRepositorio
-```
-
-- *Access the project folder*
-
-```
-$ cd chamachallenge
+$ git clone https://github.com/LayaneB/GitHub-Searcher
 ```
 
 - *Installing dependencies:*
