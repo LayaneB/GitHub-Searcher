@@ -36,6 +36,7 @@ The web app must have two pages/routes:
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [React-toastify](https://fkhadra.github.io/react-toastify/introduction/)
 - [React-icons](https://react-icons.github.io/react-icons/)
+- [react-router-dom](https://v5.reactrouter.com/)
 - [Axios](https://axios-http.com/ptbr/docs/intro/)
 - [Styled-components](https://styled-components.com/docs/)
 
